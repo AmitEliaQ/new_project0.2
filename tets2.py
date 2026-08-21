@@ -1,1 +1,1 @@
-print("hu Amit")
+print("hi Amit")
